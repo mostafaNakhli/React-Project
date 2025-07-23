@@ -15,7 +15,7 @@ export default function NewProducts(){
                         <div className="flex justify-evenly flex-wrap lg:flex-nowrap">
                             <div className="new-products-card w-35 md:w-65 shadow-lg px-3 py-0.5">
                                 <div className="new-products-card__img p-1 ">
-                                    <img src="../image/new-product-1.png" alt=""/>
+                                    <img src="image/new-product-1.png" alt=""/>
                                 </div>
                                 <p className="new-products-text nowrap text-[#0C0C0C] text-[12px] ">MacBook Pro M2 MNEJ3 2022 LLA 13.3 inch</p>
                                 <div className="new-products-footer mt-1 flex justify-between items-baseline">
@@ -27,7 +27,7 @@ export default function NewProducts(){
                             </div>
                             <div className="new-products-card ml-2 lg:ml-3  w-35 md:w-65 bg-white shadow-lg px-3 py-0.5 ">
                                 <div className="new-products-card__img p-1 ">
-                                    <img src="../image/new-product-2.png" alt=""/>
+                                    <img src="image/new-product-2.png" alt=""/>
                                 </div>
                                 <p className="new-products-text nowrap text-[#0C0C0C] text-[12px]">Iphone 14 promax 256 gig</p>
                                 <div className="new-products-footer mt-1 flex justify-between items-baseline">
@@ -39,7 +39,7 @@ export default function NewProducts(){
                             </div>
                             <div className="new-products-card mt-[1rem] w-35 md:w-65 bg-white shadow-lg px-3 py-0.5 lg:ml-3 ">
                                 <div className="new-products-card__img p-1 mb-5 relative top-2 ">
-                                    <img src="../image/new-product-3.png" alt=""/>
+                                    <img src="image/new-product-3.png" alt=""/>
                                 </div>
                                 <p className="new-products-text nowrap text-[#0C0C0C] text-[12px]">SAMSUNG Galaxy S23 Ultra Cell Phone,256 GB</p>
                                 <div className="new-products-footer mt-1 flex justify-between items-baseline">
@@ -51,7 +51,7 @@ export default function NewProducts(){
                             </div>
                             <div className="new-products-card mt-[1rem] ml-2 w-35 md:w-65 bg-white shadow-lg px-3 py-0.5 lg:ml-3">
                                 <div className="new-products-card__img p-5">
-                                    <img src="../image/new-product-4.png" alt=""/>
+                                    <img src="image/new-product-4.png" alt=""/>
                                 </div>
                                 <p className="new-products-text nowrap text-[#0C0C0C] text-[12px]">VR VisionTech X1</p>
                                 <div className="new-products-footer mt-1 flex justify-between items-baseline">

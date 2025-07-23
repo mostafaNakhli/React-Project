@@ -15,7 +15,7 @@ export default function SloganSection(){
 
                 </div>
                 <div className="header-slogan-image w-35">
-                    <img src="../image/slogan.png" alt=""/>
+                    <img src="image/slogan.png" alt=""/>
                 </div>
             </div>
         </div>

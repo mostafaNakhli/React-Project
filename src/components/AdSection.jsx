@@ -10,7 +10,7 @@ export default function AdSection(){
                         <div className="apple-phone-slogan h-full flex flex-col justify-between">
                             <p className="apple-phone__title text-white p-2 text-[18px] md:text-[20px]"><span className="text-black">Iphone</span> 15 Series</p>
                             <div className="apple-phone-img w-40 md:w-45 lg:w-50 relative top-2 md:top-1">
-                                <img src="../image/iphone-img.png" alt=""/>
+                                <img src="image/iphone-img.png" alt=""/>
                             </div>
                         </div>
                         <div className="apple-phone-content flex flex-col justify-evenly pt-2">
@@ -54,7 +54,7 @@ export default function AdSection(){
                         <div className="playstation-content flex justify-evenly items-center ">
                             <p className="playstation__text text-[#005690] text-[14px]">Digital Edition + 2TB</p>
                             <div className="playstation-img w-30">
-                                <img src="../image/ps5.png" alt=""/>
+                                <img src="image/ps5.png" alt=""/>
                             </div>
                         </div>
                         <div className="playstation-btn z-20 ">

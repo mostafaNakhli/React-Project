@@ -18,7 +18,7 @@ export default function SaleSection(){
                         <div className="flex product-sale-card-wrapper items-center h-full">
                             <div className="sale-card flex justify-between flex-col w-25 lg:w-30 p-2 rounded-md lg:rounded-[2px] bg-white lg:h-full">
                                 <div className="sale-card-img  lg:h-full lg:flex lg:items-center">
-                                    <img src="../image/sale-img-1.png" className="lg:object-cover lg:w-60"  alt=""/>
+                                    <img src="image/sale-img-1.png" className="lg:object-cover lg:w-60"  alt=""/>
                                 </div>
                                 <div className="sale-content-parent">
                                     <div className="sale-card-header mt-2" >
@@ -32,7 +32,7 @@ export default function SaleSection(){
                             </div>
                             <div className="sale-card custom-hidden lg:w-30 w-25   ml-2 lg:ml-4  bg-white p-2 rounded-sm ">
                                 <div className="sale-card-img p-3 lg:h-[65%] lg:flex lg:items-center">
-                                    <img src="../image/product-sale-2.jpg" alt=""/>
+                                    <img src="image/product-sale-2.jpg" alt=""/>
                                 </div>
                                 <div className="sale-content-parent">
                                     <div className="sale-card-header mt-2" >
@@ -46,7 +46,7 @@ export default function SaleSection(){
                             </div>
                             <div className="sale-card lg:w-30 lg:rounded-[3px] lg:ml-4 custom-hidden p-2 w-25 ml-2 rounded-md bg-white ">
                                 <div className="sale-card-img  p-1 w-12 lg:w-16 relative left-5 lg:left-6 ">
-                                    <img src="../image/sale-3.jpg" alt=""/>
+                                    <img src="image/sale-3.jpg" alt=""/>
                                 </div>
                                 <div className="sale-content-parent lg:mt-7">
                                     <div className="sale-card-header mt-2" >
@@ -60,7 +60,7 @@ export default function SaleSection(){
                             </div>
                             <div className="sale-card lg:w-28 lg:rounded-[3px] lg:ml-4 hidden md:block p-2 w-25 ml-2 rounded-md bg-white lg:flex lg:flex-col lg:items-between">
                                 <div className="sale-card-img p-1 lg:h-[65%] lg:flex lg:items-center ">
-                                    <img src="../image/sale-4.png" alt=""/>
+                                    <img src="image/sale-4.png" alt=""/>
                                 </div>
                                 <div className="sale-card-header mt-2" >
                                     <h4 className="nowrap text-[12px]">Apple 2022 MacBook Air M2 Chip (8GB RAM, 256GB SSD)</h4>
@@ -72,7 +72,7 @@ export default function SaleSection(){
                             </div>
                             <div className="sale-card hidden lg:block p-2 w-25 ml-2 rounded-md bg-white lg:w-27 lg:rounded-[3px] lg:ml-4 lg:flex lg:flex-col ">
                                 <div className="sale-card-img p-1 w-16 relative left-4 lg:h-[65%] lg:flex lg:items-center  ">
-                                    <img src="../image/orange-watch.png" alt=""/>
+                                    <img src="image/orange-watch.png" alt=""/>
                                 </div>
                                 <div className="sale-card-header mt-2" >
                                     <h4 className="nowrap text-[12px]">samsung Titan smart watch</h4>
