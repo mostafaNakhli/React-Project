@@ -47,7 +47,7 @@ export default function CategorySection(){
                     </div>
                     <div className="category-product text-center flex flex-col justify-between ml-4 shadow-md p-1 py-3 rounded-md custom-hidden lg:ml-0 ">
                         <div className="category-img w-full p-2 ">
-                            <img src="../image/smart-watch.png"  className="object-cover" alt="Gaming"/>
+                            <img src="React-Project/image/smart-watch.png"  className="object-cover" alt="Gaming"/>
                         </div>
                         <div className="category-des">
                             <p className="text-xs text-[#2D2D2D]">Smart Watch</p>
