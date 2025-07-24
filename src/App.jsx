@@ -9,12 +9,13 @@ import ProductPage from "./components/ProductPage";
 
 function App() {
   return (
-      <Router>
-        <Routes>
-          <Route path="/" element={<MainPage></MainPage>} />
-          <Route path="/product" element={<ProductPage></ProductPage>} />
-        </Routes>
-      </Router>
+      <div> helloooo</div>
+          // <Router>
+          //   <Routes>
+          //     <Route path="/" element={<MainPage></MainPage>} />
+          //     <Route path="/product" element={<ProductPage></ProductPage>} />
+          //   </Routes>
+          // </Router>
   )
 }
 
