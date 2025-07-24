@@ -175,11 +175,12 @@ body{
     position: relative;
 }
 .navbar-section ul > li.mega-menu-parent:hover > .mega-menu-inner-parent .mega-menu-wrapper{
-    visibility: visible;
+    /*visibility: visible;*/
+    display: block;
 }
 .mega-menu-inner-parent , .move-left{
     position: absolute;
-    top: 140%;
+    top: 100%;
 
 }
 .move-left{
@@ -191,7 +192,8 @@ body{
     border-radius: 0 0 0 10px;
     border-left: 1px solid rgba(0,0,0,0.1)  ;
     border-bottom: 1px solid rgba(0,0,0,0.1);
-    visibility: hidden;
+    border-top: 1px solid rgba(0,0,0,0.1);
+    display: none;
 }
 .mega-menu-parent .mega-menu-wrapper ul.mega-menu > li:hover::after , .mega-submenu .mega-submenu-ul li:hover::after{
     opacity: 0;
@@ -214,13 +216,14 @@ body{
 }
 .mega-submenu{
     position: absolute;
-    top: 0;
+    top: -5px;
     left: 100%;
     height: 352px;
     background-color: #fff;
     width: 100%;
     border-left: 1px solid #000;
     border-bottom: 1px solid rgba(0,0,0,0.1);
+    border-top: 1px solid rgba(0,0,0,0.1);
     visibility: hidden;
 }
 .mega-submenu ul.mega-submenu-ul > li{
@@ -236,13 +239,14 @@ body{
     position: absolute;
     height: 350px;
     left: 60%;
-    top: -105%;
+    top: -112%;
     background-color: #fff;
     display: flex;
     justify-content: center;
     align-items: center;
     border-right: 1px solid rgba(0,0,0,0.1);
     border-bottom: 1px solid rgba(0,0,0,0.1);
+    border-top: 1px solid rgba(0,0,0,0.1);
     border-radius: 0 0 10px 0;
 }
 .mega-submenu-product .mega-submenu-product-card p{
