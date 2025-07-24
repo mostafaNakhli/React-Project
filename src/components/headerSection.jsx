@@ -57,7 +57,7 @@ export default function HeaderSection(){
                 <div className="col-4 logo">
                     <p className="text-blue-600 lg:hidden">Tech Heim</p>
                     <div className="logo-pic w-12 hidden lg:block">
-                        <img src="../../image/logo.png"  alt=""/>
+                        <img src="image/logo.png"  alt=""/>
                     </div>
                 </div>
                 <div className="navbar-section hidden lg:block w-[50%]">
